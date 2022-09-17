@@ -1,0 +1,7 @@
+fun main() {
+var a: Int=10
+var a: Int=20
+var a: Int=30
+var v=a*b*c
+println(v)
+}
